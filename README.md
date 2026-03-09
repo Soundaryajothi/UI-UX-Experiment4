@@ -1,4 +1,6 @@
 # UI-UX-Experiment4
+# Name: Soundarya J
+# Reg no:212223220108
 
 ## Aim:
 To Design a wireframe diagram for a generic application or website using Balsamiq
